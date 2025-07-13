@@ -92,7 +92,6 @@
 
 
 
-### Study Notes: Convolutional Neural Networks and Applications
 
 
 ### 1. 🧠 Introduction to Convolutional Neural Networks (CNNs)

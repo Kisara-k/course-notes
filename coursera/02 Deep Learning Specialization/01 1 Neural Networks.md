@@ -57,7 +57,6 @@
 
 
 
-### Study Notes: Introduction to Neural Networks and Deep Learning 🤖
 
 
 ### 1. ⚡ The Big Picture: Why AI and Deep Learning Matter

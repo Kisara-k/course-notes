@@ -51,7 +51,6 @@
 
 
 
-### Study Notes: Structuring Machine Learning Projects
 
 
 ### 1. 🤖 Introduction to Machine Learning Strategy

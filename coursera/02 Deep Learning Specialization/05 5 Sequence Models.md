@@ -56,7 +56,6 @@
 
 
 
-### Study Notes: Sequence Models and NLP Fundamentals
 
 
 ### 1. 🎵 Why Sequence Models? Understanding the Need for Sequential Data Processing

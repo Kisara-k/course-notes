@@ -67,7 +67,6 @@
 
 
 
-### Study Notes: Improving Deep Neural Networks
 
 
 ### 1. 🧠 Setting Up Your Machine Learning Application
