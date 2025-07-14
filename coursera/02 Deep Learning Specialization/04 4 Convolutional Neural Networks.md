@@ -1,5 +1,9 @@
 ## 4 Convolutional Neural Networks
 
+[Study Notes](#study-notes)
+
+[Questions](#questions)
+
 
 
 ### Key Points

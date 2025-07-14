@@ -1,5 +1,9 @@
 ## 3 Structuring Machine Learning Projects
 
+[Study Notes](#study-notes)
+
+[Questions](#questions)
+
 
 
 ### Key Points
