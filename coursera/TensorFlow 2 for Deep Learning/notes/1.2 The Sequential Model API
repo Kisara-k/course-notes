@@ -1,0 +1,7 @@
+Linear Layer -> Dense Layer with Linear activation
+Default activation of Dense is Linear
+
+Flatten layer does not take positional args
+
+Dense(n, activation="softmax") is the same as [Dense(n), Softmax()], 
+but in the second case you can also output logits (before softmax)
